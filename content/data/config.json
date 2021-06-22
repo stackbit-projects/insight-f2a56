@@ -12,7 +12,8 @@
                 "label": "Capabilities",
                 "url": "/",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "facebook"
             },
             {
                 "label": "Features",
